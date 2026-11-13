@@ -1,0 +1,131 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="320"
+     viewBox="0 0 1200 320"
+     role="img"
+     aria-labelledby="title desc">
+
+  <title id="title">Camilo Monti Venesia - Full-Stack Developer</title>
+  <desc id="desc">Banner profesional verde oscuro con tipografía editorial y geometría abstracta.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#101C19"/>
+      <stop offset="58%" stop-color="#152B25"/>
+      <stop offset="100%" stop-color="#213F32"/>
+    </linearGradient>
+
+    <pattern id="grid"
+             width="28" height="28"
+             patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28"
+            fill="none"
+            stroke="#E4F4E4"
+            stroke-opacity="0.055"/>
+    </pattern>
+
+    <clipPath id="rounded">
+      <rect width="1200" height="320" rx="16"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#rounded)">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <rect width="1200" height="320" fill="url(#grid)"/>
+
+    <rect width="8" height="320" fill="#A5D6AB"/>
+
+    <!-- Geometría decorativa -->
+    <g fill="none" stroke="#A5D6AB">
+      <circle cx="1062" cy="160" r="218"
+              stroke-opacity="0.10"/>
+      <circle cx="1062" cy="160" r="163"
+              stroke-opacity="0.19"/>
+      <circle cx="1062" cy="160" r="108"
+              stroke-opacity="0.34"
+              stroke-width="1.5"/>
+    </g>
+
+    <circle cx="1062" cy="160" r="45"
+            fill="#B7DCBE"
+            fill-opacity="0.09"
+            stroke="#B7DCBE"
+            stroke-opacity="0.55"/>
+
+    <path d="M865 235L965 96L1115 222L1185 101"
+          fill="none"
+          stroke="#A5D6AB"
+          stroke-opacity="0.5"
+          stroke-width="2"/>
+
+    <path d="M936 292L1062 160L1198 257"
+          fill="none"
+          stroke="#D6EADA"
+          stroke-opacity="0.22"
+          stroke-width="1.5"/>
+
+    <g fill="#B7DCBE">
+      <circle cx="865" cy="235" r="5"/>
+      <circle cx="965" cy="96" r="6"/>
+      <circle cx="1115" cy="222" r="5"/>
+      <circle cx="1185" cy="101" r="5"/>
+      <circle cx="1062" cy="160" r="9"/>
+    </g>
+
+    <!-- Encabezado -->
+    <text x="64" y="53"
+          fill="#A5D6AB"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="14"
+          font-weight="700"
+          letter-spacing="4">
+      SOFTWARE ENGINEERING / DIGITAL PRODUCTS
+    </text>
+
+    <line x1="64" y1="74"
+          x2="750" y2="74"
+          stroke="#B7DCBE"
+          stroke-opacity="0.22"/>
+
+    <!-- Nombre -->
+    <text x="60" y="160"
+          fill="#F3F7F1"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="70"
+          font-weight="800"
+          letter-spacing="-3">
+      CAMILO
+    </text>
+
+    <text x="61" y="224"
+          fill="#F3F7F1"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="59"
+          font-weight="700"
+          letter-spacing="-2">
+      MONTI VENESIA
+    </text>
+
+    <!-- Cargo -->
+    <rect x="64" y="245"
+          width="36" height="3"
+          fill="#A5D6AB"/>
+
+    <text x="113" y="253"
+          fill="#C5D9CA"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="18"
+          letter-spacing="2">
+      FULL-STACK DEVELOPER
+    </text>
+
+    <!-- Firma -->
+    <text x="64" y="293"
+          fill="#97B7A0"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="12"
+          letter-spacing="1.8">
+      BUILDING DIGITAL EXPERIENCES WITH PURPOSE
+    </text>
+  </g>
+</svg>
