@@ -25,7 +25,67 @@ Frontend sólido. Backend funcional. Productos digitales pensados de principio a
 
 ---
 
+## GitHub Activity
 
+<div align="center">
+
+**Commits, contribuciones y constancia de desarrollo.**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg">
+  <img src="./assets/stats-dark.svg" width="100%" alt="Estadísticas de GitHub: commits, contribuciones, repositorios y rachas">
+</picture>
+
+<sub>Estadísticas generadas automáticamente mediante GitHub Actions. Las cifras corresponden a contribuciones reconocidas por GitHub.</sub>
+
+</div>
+
+---
+
+## Technology Stack
+
+### Frontend & Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite&perline=6" alt="HTML, CSS, JavaScript, TypeScript, React y Vite">
+</p>
+
+`React Router` `Motion` `Responsive Design` `AOS` `Lenis`
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,supabase,firebase&perline=6" alt="Node.js, Express, PostgreSQL, MongoDB, Supabase y Firebase">
+</p>
+
+`REST APIs` `SQL` `Mongoose` `JWT` `Zod` `RBAC` `Firestore`
+
+### Development & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vercel,vscode&perline=6" alt="Git, GitHub, GitHub Actions, Docker, Vercel y VS Code">
+</p>
+
+`Render` `Vitest` `Mocha` `Supertest` `ESLint` `Prettier` `Swagger` `Nodemailer` `Leaflet`
+
+---
+
+## About Me
+
+Soy **Camilo Monti Venesia**, desarrollador Full Stack de Rosario, Argentina, enfocado en construir aplicaciones que integren **buen diseño, lógica de negocio, persistencia de datos y experiencias de usuario cuidadas**.
+
+Me gusta desarrollar proyectos de principio a fin: desde la planificación de la interfaz hasta la arquitectura de servicios, la seguridad, las pruebas y el despliegue.
+
+Actualmente sigo desarrollando productos digitales y mejorando continuamente su arquitectura, accesibilidad y rendimiento.
+
+### Let's build something great.
+
+¿Tenés una oportunidad profesional, una propuesta freelance o un proyecto en mente?
+
+[**Portfolio**](https://portafolio-camilo-monti-venesia.vercel.app/) · [**LinkedIn**](https://www.linkedin.com/in/camilovenesia/) · [**Email**](mailto:camilovenesia.dev@gmail.com)
+
+---
 
 ## Selected Work
 
@@ -152,76 +212,6 @@ Experiencia web editorial para fitness y pilates, desarrollada con React, TypeSc
 <br>
 
 [**EXPLORAR MI PORTFOLIO COMPLETO**](https://portafolio-camilo-monti-venesia.vercel.app/)
-
-</div>
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-**Commits, contribuciones y constancia de desarrollo.**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg">
-  <img src="./assets/stats-dark.svg" width="100%" alt="Estadísticas de GitHub: commits, contribuciones, repositorios y rachas">
-</picture>
-
-<sub>Estadísticas generadas automáticamente mediante GitHub Actions. Las cifras corresponden a contribuciones reconocidas por GitHub.</sub>
-
-</div>
-
----
-
-## Technology Stack
-
-### Frontend & Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite&perline=6" alt="HTML, CSS, JavaScript, TypeScript, React y Vite">
-</p>
-
-`React Router` `Motion` `Responsive Design` `AOS` `Lenis`
-
-### Backend & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,supabase,firebase&perline=6" alt="Node.js, Express, PostgreSQL, MongoDB, Supabase y Firebase">
-</p>
-
-`REST APIs` `SQL` `Mongoose` `JWT` `Zod` `RBAC` `Firestore`
-
-### Development & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vercel,vscode&perline=6" alt="Git, GitHub, GitHub Actions, Docker, Vercel y VS Code">
-</p>
-
-`Render` `Vitest` `Mocha` `Supertest` `ESLint` `Prettier` `Swagger` `Nodemailer` `Leaflet`
-
----
-
-## About Me
-
-Soy desarrollador Full Stack de Rosario, Argentina, enfocado en construir aplicaciones que integren **buen diseño, lógica de negocio, persistencia de datos y experiencias de usuario cuidadas**.
-
-Me gusta desarrollar proyectos de principio a fin: desde la planificación de la interfaz hasta la arquitectura de servicios, la seguridad, las pruebas y el despliegue.
-
-Actualmente sigo desarrollando productos digitales y mejorando continuamente su arquitectura, accesibilidad y rendimiento.
-
----
-
-<div align="center">
-
-### Let's build something great.
-
-¿Tenés una oportunidad profesional, una propuesta freelance o un proyecto en mente?
-
-<br>
-
-[**PORTFOLIO**](https://portafolio-camilo-monti-venesia.vercel.app/) · [**LINKEDIN**](https://www.linkedin.com/in/camilovenesia/) · [**EMAIL**](mailto:camilovenesia.dev@gmail.com)
 
 <br>
 
