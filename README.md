@@ -1,15 +1,15 @@
 
 <div align="center">
 
-# Camilo Monti Venesia
+<img src="./assets/profile-hero.svg" width="100%" alt="Camilo Monti Venesia — Full-Stack Developer">
 
-### FULL-STACK DEVELOPER
+<br>
 
 **Construyo experiencias web completas.**
 
 Frontend sólido. Backend funcional. Productos digitales pensados de principio a fin.
 
-Rosario, Argentina
+**Rosario, Argentina**
 
 <br>
 
@@ -24,6 +24,8 @@ Rosario, Argentina
 </div>
 
 ---
+
+
 
 ## Selected Work
 
