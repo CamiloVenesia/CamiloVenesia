@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./assets/profile-hero.svg" width="100%" alt="Camilo Monti Venesia — Full-Stack Developer">
+<img src="./assets/profile-hero-v2.svg" width="100%" alt="Camilo Monti Venesia — Full-Stack Developer">
 
 <br>
 
