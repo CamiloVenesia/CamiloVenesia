@@ -1,183 +1,213 @@
 
 <div align="center">
 
-<img src="./assets/profile-hero.svg" width="100%" alt="Camilo Monti Venesia — Full-Stack Developer" />
+# Camilo Monti Venesia
 
-<br/>
+### FULL-STACK DEVELOPER
 
-**Del diseño de interfaces a la arquitectura backend.**
+**Construyo experiencias web completas.**
 
-Desarrollo aplicaciones web completas, combinando experiencia de usuario, lógica de negocio, bases de datos y buenas prácticas de ingeniería.
+Frontend sólido. Backend funcional. Productos digitales pensados de principio a fin.
 
-<br/>
+Rosario, Argentina
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-172E25?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolio-camilo-monti-venesia.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-172E25?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilovenesia/)
-[![Email](https://img.shields.io/badge/CONTACTO-172E25?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camilovenesia.dev@gmail.com)
+<br>
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0077B6?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolio-camilo-monti-venesia.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilovenesia/)
+[![Email](https://img.shields.io/badge/CONTACTO-182B3A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camilovenesia.dev@gmail.com)
+
+<br>
+
+**React · TypeScript · Node.js · PostgreSQL · MongoDB · Supabase**
 
 </div>
 
 ---
 
-## GitHub / Development activity
+## Selected Work
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg" />
-    <img src="./assets/stats-dark.svg" width="100%" alt="Estadísticas de contribuciones, commits y rachas de GitHub" />
-  </picture>
-</p>
+Aplicaciones y soluciones digitales que desarrollé combinando diseño de interfaces, arquitectura backend, bases de datos y experiencia de usuario.
 
-<sub>Estadísticas generadas automáticamente con GitHub Actions a partir de contribuciones reconocidas por GitHub.</sub>
+### 01 — Portfolio Personal
 
----
+**Mi espacio profesional como desarrollador Full Stack.**
 
-## Featured work
+<a href="https://portafolio-camilo-monti-venesia.vercel.app/">
+  <img src="https://raw.githubusercontent.com/CamiloVenesia/Portfolio-personal/main/public/assets/og-portfolio-optimized.jpg" alt="Portfolio profesional de Camilo Monti Venesia" width="100%">
+</a>
 
-Una selección de aplicaciones que desarrollé con foco en arquitectura, funcionalidad y experiencia de usuario.
+Portfolio diseñado y desarrollado desde cero para presentar mis proyectos, habilidades y trayectoria profesional. Combina una identidad visual propia con interacciones, animaciones y una experiencia adaptable a diferentes dispositivos.
 
-### 01 / Portfolio Personal
+**Características:** modo claro y oscuro, navegación interactiva, optimización SEO, presentación de proyectos y formulario de contacto con backend propio mediante Vercel Functions y SMTP.
 
-**Mi identidad digital como desarrollador Full Stack.**
+`React` `JavaScript` `Vite` `Node.js` `Nodemailer` `AOS` `Lenis`
 
-Diseñé y desarrollé mi portfolio profesional desde cero, combinando una interfaz moderna con animaciones, elementos interactivos, diseño responsive y una arquitectura organizada.
-
-Incluye modo claro y oscuro, navegación fluida, presentación de proyectos, formación, certificaciones, optimización SEO y un formulario de contacto conectado a una API propia mediante Vercel Functions y SMTP.
-
-**React · Vite · JavaScript · Node.js · Vercel Functions · Nodemailer · AOS · Lenis**
-
-[Explorar portfolio](https://portafolio-camilo-monti-venesia.vercel.app/) · [Ver repositorio](https://github.com/CamiloVenesia/Portfolio-personal)
+**[Ver portfolio](https://portafolio-camilo-monti-venesia.vercel.app/) · [Código fuente](https://github.com/CamiloVenesia/Portfolio-personal)**
 
 ---
 
-### 02 / NEXO CRM
+### 02 — La Matera
 
-**Gestión comercial, colaboración y analítica.**
+**E-commerce de mates, termos y accesorios.**
 
-Aplicación desarrollada con React, TypeScript y Supabase para administrar clientes, oportunidades, tareas y actividades comerciales.
+<a href="https://github.com/CamiloVenesia/E-Commerce-LaMatera">
+  <img src="https://raw.githubusercontent.com/CamiloVenesia/Portfolio-personal/main/public/assets/lamatera.webp" alt="Página principal del e-commerce La Matera" width="100%">
+</a>
 
-Incluye autenticación, permisos por organización, mensajería interna, reportes, calendario y una demo pública interactiva con datos ficticios.
+Tienda online desarrollada con React y Firebase, con una experiencia de compra completa y una identidad visual orientada al producto.
 
-<p align="center">
-  <a href="https://nexo-crm-oficial.vercel.app/?demo=1">
-    <img src="https://raw.githubusercontent.com/CamiloVenesia/nexo-crm/main/docs/screenshots/dashboard.png" width="100%" alt="Dashboard de NEXO CRM" />
-  </a>
-</p>
+**Características:** catálogo dinámico, búsqueda, filtros, carrito persistente, checkout conectado con Firestore y control de stock mediante transacciones.
 
-**React · TypeScript · Supabase · PostgreSQL · RLS · Vitest**
+`React` `Vite` `JavaScript` `Firebase` `Firestore`
 
-[Explorar demo](https://nexo-crm-oficial.vercel.app/?demo=1) · [Ver repositorio](https://github.com/CamiloVenesia/nexo-crm)
+**[Ver repositorio](https://github.com/CamiloVenesia/E-Commerce-LaMatera)**
 
 ---
 
-### 03 / Ritmo Pádel
+### 03 — Kinetic Gym
 
-**Reservas deportivas con backend y base de datos real.**
+**Sistema Full Stack de gestión para gimnasios.**
 
-Sistema Full Stack para reservas de canchas de pádel, gestión de jugadores y administración de un club ficticio.
+<a href="https://kinetic-gym-api.onrender.com">
+  <img src="https://raw.githubusercontent.com/CamiloVenesia/Portfolio-personal/main/public/assets/kinetic-gym.webp" alt="Dashboard de administración de Kinetic Gym" width="100%">
+</a>
 
-Incluye autenticación, validaciones, disponibilidad y control de reservas simultáneas mediante PostgreSQL.
+Plataforma administrativa para gestionar socios, membresías, pagos, vencimientos e ingresos de un gimnasio.
 
-**React · TypeScript · Express · PostgreSQL · Docker · Vitest**
+**Características:** dashboard de métricas, historial de pagos, roles administrativos, autenticación JWT y modo kiosco para registrar accesos mediante DNI.
 
-[Ver repositorio](https://github.com/CamiloVenesia/ritmo-padel)
+`JavaScript` `Node.js` `Express` `MongoDB` `Mongoose` `JWT`
+
+**[Ver demo](https://kinetic-gym-api.onrender.com) · [Código fuente](https://github.com/CamiloVenesia/kinetic-gym-api)**
 
 ---
 
-### 04 / DeliveryOps
+### 04 — Ritmo Pádel
+
+**Sistema de reservas deportivas con experiencia visual interactiva.**
+
+<a href="https://ritmo-padel-app.onrender.com">
+  <img src="https://raw.githubusercontent.com/CamiloVenesia/Portfolio-personal/main/public/assets/ritmo-padel.webp" alt="Página principal de Ritmo Pádel con cancha interactiva" width="100%">
+</a>
+
+Aplicación Full Stack para un club ficticio de pádel que combina una interfaz premium con un sistema de reservas, usuarios y administración.
+
+**Características:** cancha interactiva, disponibilidad por fechas y horarios, autenticación, reservas y cancelaciones, panel administrativo y prevención de reservas superpuestas en PostgreSQL.
+
+`React` `TypeScript` `Express` `PostgreSQL` `Docker` `Vitest`
+
+**[Ver demo](https://ritmo-padel-app.onrender.com) · [Código fuente](https://github.com/CamiloVenesia/ritmo-padel)**
+
+---
+
+### 05 — NEXO CRM
+
+**Gestión comercial, colaboración y análisis empresarial.**
+
+<a href="https://nexo-crm-oficial.vercel.app/?demo=1">
+  <img src="https://raw.githubusercontent.com/CamiloVenesia/nexo-crm/main/docs/screenshots/dashboard.png" alt="Dashboard de gestión comercial de NEXO CRM" width="100%">
+</a>
+
+Plataforma CRM para centralizar empresas, contactos, oportunidades comerciales y actividades de equipos.
+
+**Características:** pipeline Kanban, calendario, tareas, mensajería interna, notificaciones, reportes y control de acceso mediante Supabase Authentication y Row Level Security.
+
+Incluye una demostración pública con datos ficticios, aislada de la información real.
+
+`React` `TypeScript` `Vite` `Supabase` `PostgreSQL` `RLS` `Vitest`
+
+**[Explorar demo](https://nexo-crm-oficial.vercel.app/?demo=1) · [Código fuente](https://github.com/CamiloVenesia/nexo-crm)**
+
+---
+
+### 06 — DeliveryOps
 
 **Plataforma de gestión de entregas y operaciones logísticas.**
 
-Sistema con frontend React y API REST en Express.
+<a href="https://deliveryops.vercel.app">
+  <img src="https://raw.githubusercontent.com/CamiloVenesia/Portfolio-personal/main/public/assets/deliveryops.webp" alt="Panel de seguimiento de entregas de DeliveryOps" width="100%">
+</a>
 
-Incluye gestión de pedidos y entregas, autenticación JWT, rotación de tokens, permisos por roles, estados operativos y documentación OpenAPI.
+Aplicación Full Stack para organizar pedidos, entregas, repartidores y procesos logísticos mediante un frontend React y una API REST.
 
-**React · Node.js · Express · MongoDB · Docker · JWT**
+**Características:** gestión de pedidos, asignaciones, seguimiento de entregas, autenticación JWT, permisos por roles, documentación OpenAPI y herramientas de seguimiento operativo.
 
-[Frontend](https://github.com/CamiloVenesia/deliveryops-web) · [Backend](https://github.com/CamiloVenesia/deliveryops-api)
+`React` `JavaScript` `Node.js` `Express` `MongoDB` `Docker` `JWT`
 
----
-
-### 05 / Kinetic Gym
-
-**Sistema administrativo para gimnasios.**
-
-Gestión de socios, membresías, pagos, vencimientos y accesos.
-
-Incluye dashboard, roles administrativos y una experiencia de autoservicio mediante modo kiosco.
-
-**JavaScript · Node.js · Express · MongoDB · Mongoose**
-
-[Explorar demo](https://kinetic-gym-api.onrender.com) · [Ver repositorio](https://github.com/CamiloVenesia/kinetic-gym-api)
+**[Ver demo](https://deliveryops.vercel.app) · [Frontend](https://github.com/CamiloVenesia/deliveryops-web) · [Backend](https://github.com/CamiloVenesia/deliveryops-api)**
 
 ---
-
-### 06 / FORMA Studio
-
-**Una experiencia digital premium para fitness y pilates.**
-
-Proyecto comercial mobile-first con identidad editorial, catálogo interactivo, formularios, animaciones y un espacio de alumnos demostrativo.
-
-**React · TypeScript · Vite · Motion · CSS**
-
-[Ver repositorio](https://github.com/CamiloVenesia/forma-studio)
-
-**Estado:** desarrollo activo y refinamiento de UX/UI.
-
----
-
-### Más proyectos
-
-| Proyecto | Descripción | Tecnologías |
-|---|---|---|
-| [La Matera](https://github.com/CamiloVenesia/E-Commerce-LaMatera) | E-commerce con catálogo, carrito y checkout conectado a Firestore | React · Firebase · Firestore |
 
 <div align="center">
 
-**[Explorar todos mis proyectos en el portfolio](https://portafolio-camilo-monti-venesia.vercel.app/)**
+### Otros desarrollos
+
+**[FORMA Studio](https://github.com/CamiloVenesia/forma-studio)**
+
+Experiencia web editorial para fitness y pilates, desarrollada con React, TypeScript y Motion. Actualmente en desarrollo y perfeccionamiento de UX/UI.
+
+<br>
+
+[**EXPLORAR MI PORTFOLIO COMPLETO**](https://portafolio-camilo-monti-venesia.vercel.app/)
 
 </div>
 
 ---
 
-## Technology stack
+## GitHub Activity
+
+<div align="center">
+
+**Commits, contribuciones y constancia de desarrollo.**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg">
+  <img src="./assets/stats-dark.svg" width="100%" alt="Estadísticas de GitHub: commits, contribuciones, repositorios y rachas">
+</picture>
+
+<sub>Estadísticas generadas automáticamente mediante GitHub Actions. Las cifras corresponden a contribuciones reconocidas por GitHub.</sub>
+
+</div>
+
+---
+
+## Technology Stack
 
 ### Frontend & Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite&perline=6" alt="HTML, CSS, JavaScript, TypeScript, React y Vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite&perline=6" alt="HTML, CSS, JavaScript, TypeScript, React y Vite">
 </p>
 
-React Router · Motion · Responsive Design · UX/UI · AOS · Lenis
+`React Router` `Motion` `Responsive Design` `AOS` `Lenis`
 
 ### Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,supabase,firebase&perline=6" alt="Node.js, Express, PostgreSQL, MongoDB, Supabase y Firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,supabase,firebase&perline=6" alt="Node.js, Express, PostgreSQL, MongoDB, Supabase y Firebase">
 </p>
 
-REST APIs · SQL · Mongoose · Firestore · JWT · Zod · Auth · RBAC
+`REST APIs` `SQL` `Mongoose` `JWT` `Zod` `RBAC` `Firestore`
 
 ### Development & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vercel,vscode&perline=6" alt="Git, GitHub, GitHub Actions, Docker, Vercel y VS Code" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vercel,vscode&perline=6" alt="Git, GitHub, GitHub Actions, Docker, Vercel y VS Code">
 </p>
 
-Render · Vitest · Mocha · Supertest · ESLint · Prettier · Swagger · Nodemailer · Leaflet
+`Render` `Vitest` `Mocha` `Supertest` `ESLint` `Prettier` `Swagger` `Nodemailer` `Leaflet`
 
 ---
 
-## About me
+## About Me
 
-Soy desarrollador Full Stack de Rosario, Argentina.
+Soy desarrollador Full Stack de Rosario, Argentina, enfocado en construir aplicaciones que integren **buen diseño, lógica de negocio, persistencia de datos y experiencias de usuario cuidadas**.
 
-Me interesa construir productos que no solamente funcionen, sino que también sean claros, intuitivos, mantenibles y visualmente cuidados.
+Me gusta desarrollar proyectos de principio a fin: desde la planificación de la interfaz hasta la arquitectura de servicios, la seguridad, las pruebas y el despliegue.
 
-Mi trabajo combina desarrollo frontend, lógica de negocio, APIs, bases de datos y despliegue de aplicaciones web.
-
-Actualmente continúo desarrollando proyectos propios, mejorando su arquitectura, seguridad, rendimiento y experiencia de usuario.
+Actualmente sigo desarrollando productos digitales y mejorando continuamente su arquitectura, accesibilidad y rendimiento.
 
 ---
 
@@ -185,11 +215,13 @@ Actualmente continúo desarrollando proyectos propios, mejorando su arquitectura
 
 ### Let's build something great.
 
-¿Tenés un proyecto, una propuesta freelance o una oportunidad profesional?
+¿Tenés una oportunidad profesional, una propuesta freelance o un proyecto en mente?
 
-[**Portfolio**](https://portafolio-camilo-monti-venesia.vercel.app/) · [**LinkedIn**](https://www.linkedin.com/in/camilovenesia/) · [**Email**](mailto:camilovenesia.dev@gmail.com)
+<br>
 
-<br/>
+[**PORTFOLIO**](https://portafolio-camilo-monti-venesia.vercel.app/) · [**LINKEDIN**](https://www.linkedin.com/in/camilovenesia/) · [**EMAIL**](mailto:camilovenesia.dev@gmail.com)
+
+<br>
 
 **CAMILO MONTI VENESIA**
 
