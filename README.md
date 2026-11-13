@@ -37,15 +37,31 @@ Desarrollo aplicaciones web completas, combinando experiencia de usuario, lógic
 
 Una selección de aplicaciones que desarrollé con foco en arquitectura, funcionalidad y experiencia de usuario.
 
-### 01 / NEXO CRM
+### 01 / Portfolio Personal
+
+**Mi identidad digital como desarrollador Full Stack.**
+
+Diseñé y desarrollé mi portfolio profesional desde cero, combinando una interfaz moderna con animaciones, elementos interactivos, diseño responsive y una arquitectura organizada.
+
+Incluye modo claro y oscuro, navegación fluida, presentación de proyectos, formación, certificaciones, optimización SEO y un formulario de contacto conectado a una API propia mediante Vercel Functions y SMTP.
+
+**React · Vite · JavaScript · Node.js · Vercel Functions · Nodemailer · AOS · Lenis**
+
+[Explorar portfolio](https://portafolio-camilo-monti-venesia.vercel.app/) · [Ver repositorio](https://github.com/CamiloVenesia/Portfolio-personal)
+
+---
+
+### 02 / NEXO CRM
 
 **Gestión comercial, colaboración y analítica.**
 
-Aplicación desarrollada con React, TypeScript y Supabase para administrar clientes, oportunidades, tareas y actividades comerciales. Incluye autenticación, permisos por organización, mensajería interna y una demo pública interactiva con datos ficticios.
+Aplicación desarrollada con React, TypeScript y Supabase para administrar clientes, oportunidades, tareas y actividades comerciales.
+
+Incluye autenticación, permisos por organización, mensajería interna, reportes, calendario y una demo pública interactiva con datos ficticios.
 
 <p align="center">
   <a href="https://nexo-crm-oficial.vercel.app/?demo=1">
-    <img src="https://raw.githubusercontent.com/CamiloVenesia/nexo-crm/main/docs/screenshots/dashboard.png" width="100%" alt="Dashboard de NEXO CRM"/>
+    <img src="https://raw.githubusercontent.com/CamiloVenesia/nexo-crm/main/docs/screenshots/dashboard.png" width="100%" alt="Dashboard de NEXO CRM" />
   </a>
 </p>
 
@@ -55,11 +71,13 @@ Aplicación desarrollada con React, TypeScript y Supabase para administrar clien
 
 ---
 
-### 02 / Ritmo Pádel
+### 03 / Ritmo Pádel
 
 **Reservas deportivas con backend y base de datos real.**
 
-Sistema Full Stack para reservas de canchas de pádel, gestión de jugadores y administración del club. Incluye autenticación, validaciones, disponibilidad y control de reservas simultáneas mediante PostgreSQL.
+Sistema Full Stack para reservas de canchas de pádel, gestión de jugadores y administración de un club ficticio.
+
+Incluye autenticación, validaciones, disponibilidad y control de reservas simultáneas mediante PostgreSQL.
 
 **React · TypeScript · Express · PostgreSQL · Docker · Vitest**
 
@@ -67,11 +85,13 @@ Sistema Full Stack para reservas de canchas de pádel, gestión de jugadores y a
 
 ---
 
-### 03 / DeliveryOps
+### 04 / DeliveryOps
 
 **Plataforma de gestión de entregas y operaciones logísticas.**
 
-Sistema con frontend React y API REST en Express. Incluye pedidos, entregas, autenticación JWT, rotación de tokens, permisos por roles, estados operativos y documentación OpenAPI.
+Sistema con frontend React y API REST en Express.
+
+Incluye gestión de pedidos y entregas, autenticación JWT, rotación de tokens, permisos por roles, estados operativos y documentación OpenAPI.
 
 **React · Node.js · Express · MongoDB · Docker · JWT**
 
@@ -79,11 +99,13 @@ Sistema con frontend React y API REST en Express. Incluye pedidos, entregas, aut
 
 ---
 
-### 04 / Kinetic Gym
+### 05 / Kinetic Gym
 
 **Sistema administrativo para gimnasios.**
 
-Gestión de socios, membresías, pagos, vencimientos y accesos. Incluye dashboard, roles administrativos y una experiencia de autoservicio mediante modo kiosco.
+Gestión de socios, membresías, pagos, vencimientos y accesos.
+
+Incluye dashboard, roles administrativos y una experiencia de autoservicio mediante modo kiosco.
 
 **JavaScript · Node.js · Express · MongoDB · Mongoose**
 
@@ -91,7 +113,7 @@ Gestión de socios, membresías, pagos, vencimientos y accesos. Incluye dashboar
 
 ---
 
-### 05 / FORMA Studio
+### 06 / FORMA Studio
 
 **Una experiencia digital premium para fitness y pilates.**
 
@@ -110,7 +132,6 @@ Proyecto comercial mobile-first con identidad editorial, catálogo interactivo, 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
 | [La Matera](https://github.com/CamiloVenesia/E-Commerce-LaMatera) | E-commerce con catálogo, carrito y checkout conectado a Firestore | React · Firebase · Firestore |
-| [Portfolio Personal](https://github.com/CamiloVenesia/Portfolio-personal) | Portfolio responsive con animaciones, SEO y formulario de contacto mediante API | React · Vite · Node.js |
 
 <div align="center">
 
